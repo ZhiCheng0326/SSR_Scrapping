@@ -3,7 +3,7 @@
 The main purpose of this project is to scrap down the SSR link from a website where the host will update the SSR link constantly. 
 
 ## Getting Started
-Environment: Python 3.6
+Environment: Python 3.6 \n
 Libraries: requests & BeautifulSoup
 
 ```
