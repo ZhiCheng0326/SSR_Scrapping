@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+#This part is to update the gui-config.json with the decoded SSR URL.
 import json
 
 def updateConfig(newConfig):
