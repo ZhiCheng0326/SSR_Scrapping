@@ -7,7 +7,10 @@ def main():
         return
     
     SSR = getSSRstring(str_SSRaddress)
-    print(SSR)
+    config = decoder(SSR)
+    print(config)
 
 if __name__ == "__main__":
+    from ssr_scrapping import*
+    from decoder import decoder
     main()
