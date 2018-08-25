@@ -10,19 +10,22 @@ Libraries: requests & BeautifulSoup
 ```
 import bs4
 import requests
+import json
 ```
 
 ### Installing
 Simple guide for libraries installation
+Don't forget to conduct the installation in command promt!
 
 ```
 pip install beautifulsoup4
 pip install requests
 ```
-Don't forget to conduct the installation in command promt!
 
 ## Special Thanks
-Special thanks to @kmykoh97 for the inspiration to this project. Besides, I would like to express gratitude to the host of https://fangeqiang.com/408.html for sharing free SSR account. 
+Special thanks to @kmykoh97 for the inspiration to this project. 
+
+Besides, I would like to express gratitude to the host of https://fangeqiang.com/408.html for sharing free SSR account. 
 
 ## Authors
 
