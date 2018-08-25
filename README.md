@@ -14,7 +14,8 @@ import json
 ```
 
 ### Installing
-Simple guide for libraries installation
+Simple guide for libraries installation.
+
 Don't forget to conduct the installation in command promt!
 
 ```
